@@ -3,7 +3,7 @@
 
 <p>Izmir Institute Of Technology / Computer Engineering</p>
 
-<p>I am a mobile application developer. I am developing myself in mobile application development for about the last 3 years. I also improved myself in Backend development with Node.js, TypeScript, MySQL and GraphQL. Most of my experience is in the area of react native but I also gained experince in Swift by writing native bridges with React Native. I want to improve myself with native mobile application development so I wanted to join Trendyol IOS Bootcamp. I want to continue my career in mobile application development with Swift.</p>
+<p>I am a mobile application developer. I am developing myself in mobile application development for about the last 3 years. I also improved myself in backend development with Node.js, TypeScript, MySQL and GraphQL. Most of my experience is in the area of React Native but I also gained experince in Swift by writing native bridges with React Native. I want to improve myself with native mobile application development so I wanted to join Trendyol IOS Bootcamp. I want to continue my career in mobile application development with Swift.</p>
 
 - 📫 How to reach me **buraksak98@gmail.com**
 
